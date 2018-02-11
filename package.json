@@ -1,0 +1,22 @@
+{
+    "name": "swedish-postal-code-validator",
+    "title": "Swedish postal code validator",
+    "version": "0.1.0",
+    "author": "Jonathan Persson <persson.jonathan@gmail.com>",
+    "license": "MIT",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jonathanp/swedish-postal-code-validator.git"
+    },
+    "devDependencies": {
+        "tape": "4.8.0",
+        "typescript": "2.7.1"
+    },
+    "scripts": {
+        "build": "tsc",
+        "test": "npm run build && node test.js",
+        "prepare": "npm run build"
+    }
+}
