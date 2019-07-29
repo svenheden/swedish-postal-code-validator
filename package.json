@@ -1,14 +1,14 @@
 {
     "name": "swedish-postal-code-validator",
     "title": "Swedish postal code validator",
-    "version": "0.1.0",
-    "author": "Jonathan Persson <persson.jonathan@gmail.com>",
+    "version": "0.1.1",
+    "author": "Jonathan Svenheden <jonathan@svenheden.com>",
     "license": "MIT",
     "main": "./dist/index.js",
     "types": "./dist/index.d.ts",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jonathanp/swedish-postal-code-validator.git"
+        "url": "https://github.com/svenheden/swedish-postal-code-validator.git"
     },
     "devDependencies": {
         "tape": "4.8.0",

@@ -26,9 +26,9 @@ isValid('32663') // => false
 
 ## License
 
-MIT © [Jonathan Persson](https://github.com/jonathanp)
+MIT © [Jonathan Svenheden](https://github.com/svenheden)
 
 [npm-url]: https://npmjs.org/package/swedish-postal-code-validator
 [npm-image]: https://badge.fury.io/js/swedish-postal-code-validator.svg
-[travis-image]: https://travis-ci.org/jonathanp/swedish-postal-code-validator.svg
-[travis-url]: https://travis-ci.org/jonathanp/swedish-postal-code-validator
+[travis-image]: https://travis-ci.org/svenheden/swedish-postal-code-validator.svg
+[travis-url]: https://travis-ci.org/svenheden/swedish-postal-code-validator
